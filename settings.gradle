@@ -1,0 +1,10 @@
+rootProject.name = 'cn.im'
+include 'e-server'
+include 'e-client'
+include 'e-client2'
+include 'eureka-consumer'
+include 'e-server2'
+include 'e-stream'
+include 'e-stream-out'
+include 'e-bus'
+

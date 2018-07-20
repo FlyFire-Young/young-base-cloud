@@ -1,0 +1,9 @@
+server:
+  port: 8081
+fixedDelay: 5000
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: sink-channel
